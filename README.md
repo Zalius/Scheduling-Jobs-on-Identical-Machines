@@ -7,7 +7,6 @@ Enter the number of machines in the first input line
 Enter the number of Jobs in the second input line  
 The program generates n random jobs between [1,50] and implements both algorithms and finds the result for each algorithm  
 
-<br />
 *In PrjAlgoGraphicVersion.py file it also draw sample machines and jobs and their distribution using pygame for Dynamic Programmin Algorithm*
  
  
