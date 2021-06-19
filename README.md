@@ -15,6 +15,5 @@ the program generates n random jobs between [1,50] and implements both algorithm
  
  
 <br />
-<br /> 
-  
+
 *You can also watch the video file for implementation*
